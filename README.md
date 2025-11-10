@@ -8,14 +8,31 @@
 
 ## 👨‍💻 Team Members
 
-| Name | Roll No. |
-|------|-----------|
-| **Rudresh Fadate** | 2505 | 
-| **Aadarsh Sawant** | 2508 | 
-| **Kirtikesh Naik** | 2514 | 
-| **Prathamesh Naik** | 2516 | 
+| Name | Roll No. | Seat No. |
+|------|-----------|------------|
+| **Rudresh Fadate** | 2505 | 25P0630011 |
+| **Aadarsh Sawant** | 2508 | 25P0630001 |
+| **Kirtikesh Naik** | 2514 | 25P0630007 |
+| **Prathamesh Naik** | 2516 | 25P0630009 | 
 ---
 
+## 🧩 Prerequisites
+
+Before running this project, ensure that the following prerequisites are met:
+
+### 💻 System Requirements
+- **Operating System:** Windows 10 / macOS / Linux  
+- **Python Version:** 3.8 or higher  
+- **Internet Connection:** Required (for downloading dependencies and accessing datasets)
+
+---
+
+### 🧰 Required Tools
+1. **Python** (Download from [python.org](https://www.python.org/downloads/))  
+2. **pip** – Python package manager (comes pre-installed with Python)  
+3. **IDE or Code Editor:** VS Code / PyCharm / Jupyter Notebook  
+4. **Git** (optional, for cloning the repository)  
+   - Download: [https://git-scm.com/](https://git-scm.com/)
 ## 🧠 Project Overview
 
 **Flight-Schedule-Analysis-and-Optimization-Insights-from-Indian-Airline-Operations** is a comprehensive data science project developed to analyze Indian airline flight schedule data.  
